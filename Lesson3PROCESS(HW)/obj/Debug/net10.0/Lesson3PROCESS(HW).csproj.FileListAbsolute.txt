@@ -1,0 +1,15 @@
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).GeneratedMSBuildEditorConfig.editorconfig
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).AssemblyInfoInputs.cache
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).AssemblyInfo.cs
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).csproj.CoreCompileInputs.cache
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\bin\Debug\net10.0\Lesson3PROCESS(HW).exe
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\bin\Debug\net10.0\Lesson3PROCESS(HW).deps.json
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\bin\Debug\net10.0\Lesson3PROCESS(HW).runtimeconfig.json
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\bin\Debug\net10.0\Lesson3PROCESS(HW).dll
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\bin\Debug\net10.0\Lesson3PROCESS(HW).pdb
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).dll
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\refint\Lesson3PROCESS(HW).dll
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).pdb
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3PROCESS(HW).genruntimeconfig.cache
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\ref\Lesson3PROCESS(HW).dll
+X:\Work\GIT-PROCESS\Lesson3PROCESS(HW)\Lesson3PROCESS(HW)\obj\Debug\net10.0\Lesson3P.83452657.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lesson3PROCESS(HW)/1.0.0": {
+        "runtime": {
+          "Lesson3PROCESS(HW).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson3PROCESS(HW)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
